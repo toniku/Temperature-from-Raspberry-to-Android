@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Measurement</string>
+    <string name="channel_name">Temperature Warning!</string>
+    <string name="channel_description"></string>
+</resources>
